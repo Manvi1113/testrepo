@@ -1,15 +1,3 @@
----
-markdown-version: v1
-tool-type: instructional-lab
-branch: lab-2857-instruction
-version-history-start-date: '2022-12-16T07:35:49Z'
-audio-timestamp-of-request-to-generate-wav: '2023-11-22T16:30:22Z'
-audio-file-url: https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CD0101EN-SkillsNetwork/Cheatsheets/C2M4%20Cheatsheet%20v1.2.md.wav
----
-
-
-##
-
 <div align="center">
 <b>Module 2 Cheatsheet: Generative AI for Software Developers</b>
 </div>
